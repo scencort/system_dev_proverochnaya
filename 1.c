@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-
 bool IsPalindrome(int k) {
 	int or = k;
 	int reverse = 0;
